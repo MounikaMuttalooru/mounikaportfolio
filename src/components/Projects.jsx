@@ -35,7 +35,7 @@ const Projects = () => {
       description: 'Booking system using React.js and Java backend with MongoDB; implemented GET/fetch methods and Bootstrap UI.',
       techs: ['React', 'MongoDB', 'Bootstrap', 'Node.js'],
       github: 'https://github.com/MounikaMuttalooru',
-      live: 'https://hotelroommanagement.netlify.app/'
+      live: 'https://hotelbookingbymounika.netlify.app/'
     },
     {
       id: 4,
