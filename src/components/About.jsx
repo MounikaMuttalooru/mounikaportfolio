@@ -25,6 +25,19 @@ const About = () => {
             </div>
           </div>
           
+          <div className="education-highlight">
+            <h3>Education</h3>
+            <div className="education-item">
+              <div className="education-icon">
+                <i className="fas fa-graduation-cap"></i>
+              </div>
+              <div className="education-details">
+                <h4>Master of Science in Information Technology</h4>
+                <p className="education-institution">St.Fransis College NY</p>
+                <p className="education-year">sep2023 -  May2025</p>
+              </div>
+            </div>
+          </div>
         </div>
         
        
@@ -32,7 +45,7 @@ const About = () => {
           <h2 className="section-title">About Me</h2>
           <div className="about-text">
             <p>
-              I am a passionate Full Stack Software Engineer with a Master's degree in Information Technology and over 5+ years of experience designing, developing, and deploying scalable applications across cloud, web, and mobile platforms. My expertise spans modern frameworks, cloud technologies, and DevOps practices.
+              I am a passionate Full Stack Software Engineer with a Master's degree in Information Technology and 3+ years of experience designing, developing, and deploying scalable applications across cloud, web, and mobile platforms. My expertise spans modern frameworks, cloud technologies, and DevOps practices.
             </p>
             <p>
               I specialize in building robust microservices, high-performance UIs, and data-intensive workflows using Python, React, FastAPI, and cloud platforms like GCP. I'm also proficient in CI/CD automation, infrastructure as code, and agile delivery methodologies.

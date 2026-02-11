@@ -17,7 +17,7 @@ const Resume = () => {
       id: 1,
       company: 'PLATEAU GRP',
       position: 'Software Engineer',
-      period: 'Nov 2023 - Present',
+      period: 'Feb 2024 - Present',
       description: [
         'Designed and implemented robust software solutions using object-oriented programming principles and scripting languages to address complex business requirements',
         'Built and maintained microservice architectures within containerized environments, ensuring scalability and performance optimization',
@@ -45,7 +45,7 @@ const Resume = () => {
       id: 2,
       company: 'Guac',
       position: 'Software Engineer',
-      period: 'Aug 2021 - Jul 2023',
+      period: 'Sep 2021 - July 2023',
       description: [
         'Developed and maintained efficient ETL pipelines processing billions of data rows daily using Python, ensuring timely and accurate data flow throughout the application ecosystem',
         'Architected and implemented customer-facing features for web applications using React, Next.js, and TypeScript, enhancing user experience and product functionality',
@@ -137,7 +137,7 @@ const Resume = () => {
             <div className="resume-section mb-5">
               <h3 className="section-title">Professional Summary</h3>
               <p className="section-content">
-                Full Stack Software Engineer with 5 years of experience designing, developing, and deploying scalable applications across cloud, web, and mobile platforms. Skilled in building robust microservices, high-performance UIs, and data-intensive workflows using modern frameworks and cloud technologies. Expertise in CI/CD automation, infrastructure as code, and agile delivery. Adept at collaborating across cross-functional teams, optimizing system performance, and ensuring security compliance through automated testing and vulnerability scanning.
+                Full Stack Software Engineer with 3+ years of experience designing, developing, and deploying scalable applications across cloud, web, and mobile platforms. Skilled in building robust microservices, high-performance UIs, and data-intensive workflows using modern frameworks and cloud technologies. Expertise in CI/CD automation, infrastructure as code, and agile delivery. Adept at collaborating across cross-functional teams, optimizing system performance, and ensuring security compliance through automated testing and vulnerability scanning.
               </p>
             </div>
             
