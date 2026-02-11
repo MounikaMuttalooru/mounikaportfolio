@@ -3,6 +3,7 @@
   transition: all 0.3s ease;
   background-color: transparent;
   overflow: visible;
+  z-index: 1050 !important; /* above home overlay and all page content */
 }
 
 .navbar.scrolled {

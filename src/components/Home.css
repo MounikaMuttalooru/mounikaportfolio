@@ -1,5 +1,6 @@
 .home {
   position: relative;
+  z-index: 0;
   height: 100vh;
   width: 100%;
   overflow: hidden;
@@ -33,6 +34,7 @@
 .content-overlay {
   position: relative;
   z-index: 1;
+  /* keep below navbar (navbar z-index: 1050) */
   text-align: left;
   color: white;
   padding: 2rem;
