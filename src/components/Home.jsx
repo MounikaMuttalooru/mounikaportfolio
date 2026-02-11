@@ -23,10 +23,7 @@ const Home = () => {
         Software Engineer with 3+ years of experience specializing in front-end development and scalable full-stack solutions. Expertise in building and optimizing robust web applications using TypeScript, React, and Material UI, with a focus on enhancing user experience and integrating complex APIs. Experienced with cloud platforms like AWS Amplify for deploying efficient and secure systems. Skilled in developing solutions for e-commerce platforms and search technologies such as Elasticsearch. Capable of delivering high-quality, maintainable code and conducting end-to-end testing with Cypress.io.
         </p>
         <div className="cta-buttons">
-          <Link to="/resume" className="btn btn-primary">
-            Resume
-          </Link>
-          <Link to="/contact" className="btn btn-outline-light">
+          <Link to="/contact" className="btn btn-primary">
             Get In Touch
           </Link>
         </div>

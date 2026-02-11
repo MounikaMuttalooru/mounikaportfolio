@@ -48,7 +48,7 @@ const About = () => {
               I am a passionate Software Engineer with a Master's degree in Information Technology and 3+ years of experience designing, developing, and deploying scalable applications across cloud, web, and mobile platforms. My expertise spans modern frameworks, cloud technologies, and DevOps practices.
             </p>
             <p>
-            I’m a software engineer with 3+ years of experience focused on frontend development. I build responsive, user-friendly web applications using TypeScript, React, and Material UI, and I enjoy turning complex requirements into clean, intuitive interfaces. I also have hands-on full-stack experience integrating APIs, working with AWS Amplify, and ensuring quality through end-to-end testing with Cypress
+            I specialize in building scalable web applications and high-performance user interfaces using TypeScript, React, and Material UI, with a strong focus on frontend development and user experience. I have hands-on experience developing full-stack solutions, integrating complex APIs, and deploying applications using AWS Amplify. I’ve worked on e-commerce and search-driven platforms using technologies like Elasticsearch, and I prioritize writing clean, maintainable code with reliable end-to-end testing using Cypress.
             </p>
           </div>
 
