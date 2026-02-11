@@ -45,10 +45,10 @@ const About = () => {
           <h2 className="section-title">About Me</h2>
           <div className="about-text">
             <p>
-              I am a passionate Full Stack Software Engineer with a Master's degree in Information Technology and 3+ years of experience designing, developing, and deploying scalable applications across cloud, web, and mobile platforms. My expertise spans modern frameworks, cloud technologies, and DevOps practices.
+              I am a passionate Software Engineer with a Master's degree in Information Technology and 3+ years of experience designing, developing, and deploying scalable applications across cloud, web, and mobile platforms. My expertise spans modern frameworks, cloud technologies, and DevOps practices.
             </p>
             <p>
-              I specialize in building robust microservices, high-performance UIs, and data-intensive workflows using Python, React, FastAPI, and cloud platforms like GCP. I'm also proficient in CI/CD automation, infrastructure as code, and agile delivery methodologies.
+            I’m a software engineer with 3+ years of experience focused on frontend development. I build responsive, user-friendly web applications using TypeScript, React, and Material UI, and I enjoy turning complex requirements into clean, intuitive interfaces. I also have hands-on full-stack experience integrating APIs, working with AWS Amplify, and ensuring quality through end-to-end testing with Cypress
             </p>
           </div>
 
@@ -91,7 +91,8 @@ const About = () => {
               <div className="skill-item"><i className="fas fa-database"></i><span>PostgreSQL</span></div>
               <div className="skill-item"><i className="fas fa-laptop-code"></i><span>VSCode</span></div>
               <div className="skill-item"><i className="fas fa-file-code"></i><span>JSON</span></div>
-              <div className="skill-item"><i className="fas fa-sync-alt"></i><span>React Query</span></div>
+              <div className="skill-item"><i className="fas fa-sync-alt"></i><span>VB.NET</span></div>
+              <div className="skill-item"><i className="fas fa-sync-alt"></i><span>Vue.js</span></div>
             </div>
           </div>
           
